@@ -29,18 +29,5 @@
 - 🌟 **Controle de gastos**  
   Projeto web simples para ter controle das suas despesas: https://github.com/guilhermex2/controle_de_gastos_js
 
----
-
-## 📞 Entre em Contato
-
-📧 Email: guilhermexavier522@gmail.com  
-🌐 LinkedIn: [Guilherme Xavier](https://www.linkedin.com/in/dev-guilherme-xavier/)  
-💻 GitHub: [guilhermex2](https://github.com/guilhermex2)  
-
----
 
 ⭐ **Se gostou dos meus projetos, sinta-se à vontade para deixar uma estrela nos repositórios!**  
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermex2&show_icons=true&rank_icon=github&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermex2&hide_progress=true&theme=tokyonight)
