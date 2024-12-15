@@ -25,6 +25,8 @@
 ---
 
 ## 📂 Projetos Recentes
+- 🌟 **Sistema de pedidos web**
+  Projeto web FrontEnd que permite o usuario selecionar e fazer um pedido: https://github.com/guilhermex2/Sistema-de-pedidos-web-FrontEnd
 
 - 🌟 **Controle de gastos**  
   Projeto web simples para ter controle das suas despesas: https://github.com/guilhermex2/controle_de_gastos_js
