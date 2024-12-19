@@ -25,7 +25,7 @@
 ---
 
 ## 📂 Projetos Recentes
-- 🌟 **Sistema de pedidos web**
+- 🌟 **Sistema de pedidos web**  
   Projeto web FrontEnd que permite selecionar e fazer um pedido:  
   https://github.com/guilhermex2/Sistema-de-pedidos-web-FrontEnd
   
