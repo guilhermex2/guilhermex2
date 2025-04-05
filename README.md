@@ -25,14 +25,14 @@
 ---
 
 ## 📂 Projetos Recentes
-- 🌟 **Sistema de pedidos web**  
-  Projeto web FrontEnd que permite selecionar e fazer um pedido:  
-  https://github.com/guilhermex2/Sistema-de-pedidos-web-FrontEnd
+- 🌟 **CRUD PRISMA API**  
+  API desenvolvida com Node.js, Express e Prisma ORM, que permite operações CRUD (Create, Read, Update, Delete) para gerenciamento de usuários em um banco de dados:  
+  https://github.com/guilhermex2/crud_prisma_api
   
 
-- 🌟 **Controle de gastos**  
-  Projeto web simples para ter controle das suas despesas:  
-  https://github.com/guilhermex2/controle_de_gastos_js
+- 🌟 **Dev Estoque**  
+  Sistema web para controle de estoque de produtos com MongoDb:  
+  https://github.com/guilhermex2/dev-estoque
 
 
 ⭐ **Se gostou dos meus projetos, sinta-se à vontade para deixar uma estrela nos repositórios!**  
